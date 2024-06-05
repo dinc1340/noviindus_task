@@ -1,7 +1,6 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:noviindus_task/screens/homescreen.dart';
 
 class FlashScreen extends StatefulWidget {
